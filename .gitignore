@@ -1,0 +1,36 @@
+# Secrets - never commit. Use .env.example (placeholders only) as the template.
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Local databases (live-chat demo data)
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Logs, temp files, editor and OS files
+*.log
+*.tmp
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+
+# NOTE: reports/ and improvements/ are intentionally tracked: they are the assignment's evidence.

@@ -1,0 +1,7 @@
+# Versions below were the ones used for development and testing (Python 3.12).
+# All are compatible with Python 3.11 and 3.12.
+groq==0.31.0
+pydantic==2.14.0
+PyYAML==6.0.3
+python-dotenv==1.2.2
+pytest==9.1.1
