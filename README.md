@@ -11,7 +11,6 @@ finds real failures in the agent's own runs, turns them into structured guardrai
 **Reviewer links**
 - Loom demo: <https://www.loom.com/share/8842f6c2dc6b4ac79dc8ed26dc577601>
 - Design note (one page): [`design/DESIGN.md`](design/DESIGN.md) - <https://github.com/satyamkumar1-Prov/self-imptovment/blob/main/design/DESIGN.md>
-- Repository: <https://github.com/satyamkumar1-Prov/self-imptovment>
 
 **Three commands are all a reviewer needs** (after the one-time setup below):
 
